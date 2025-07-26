@@ -47,7 +47,7 @@
   <h3>🛡️ Panel de Licencias</h3>
   <p>Sistema moderno de licencias con dashboard de administración</p>
   <p><strong>Stack:</strong> React + Zustand + TanStack + Axios + TailwindCSS + Spring Boot</p>
-  🔗 <a href="#">Repositorio</a>
+  🔗 <a href="[#](https://github.com/AndreeBermudez/sistema-municipalidad)">Repositorio</a>
   <img src="images/licencias.PNG" alt="Panel de Licencias">
 </div>
 
@@ -55,7 +55,7 @@
   <h3>🌐 Municipalidad de Nuevo Chimbote</h3>
   <p>Página web oficial y panel de administración para una entidad pública</p>
   <p><strong>Stack:</strong> React + TailwindCSS + Axios + Spring Boot</p>
-  🔗 <a href="#">Repositorio</a>
+  🔗 <a href="[#](https://github.com/AndreeBermudez/pagina-web-mdnch)">Repositorio</a>
   <img src="images/municipalidad.PNG" alt="Municipalidad">
 </div>
 
@@ -63,7 +63,7 @@
   <h3>🎉 Hackatón Xperience - UTP</h3>
   <p>Proyecto desarrollado en hackatón universitaria usando API de Gemini</p>
   <p><strong>Stack:</strong> React + Gemini API</p>
-  🔗 <a href="#">Repositorio</a>
+  🔗 <a href="[#](https://github.com/AndreeBermudez/xperience-hackaton)">Repositorio</a>
   <img src="images/hackaton.PNG" alt="Hackatón">
 </div>
 
@@ -79,7 +79,7 @@
   <h3>👁️‍🗨️ Proyecto OcuLink (Innovación)</h3>
   <p>App experimental que simula movimientos oculares con Gemini + React</p>
   <p><strong>Stack:</strong> React + Gemini API + Node.js</p>
-  🔗 <a href="#">Repositorio</a>
+  🔗 <a href="[#](https://github.com/AndreeBermudez/oculink)">Repositorio</a>
   <img src="images/oculink.PNG" alt="OcuLink">
 </div>
 
@@ -87,7 +87,7 @@
   <h3>🚌 Proyecto Vía Costa</h3>
   <p>Sistema de gestión para viajes en bus</p>
   <p><strong>Stack:</strong> JavaFX + Spring Boot</p>
-  🔗 <a href="#">Repositorio</a>
+  🔗 <a href="[#](https://github.com/Pontec/CURSO_INTEGRADOR_I)">Repositorio</a>
   <img src="images/viacosta.PNG" alt="Via Costa">
 </div>
 
@@ -95,7 +95,7 @@
   <h3>🍽️ Web de Restaurante Pío Riko</h3>
   <p>Página web para restaurante con administración y pedidos</p>
   <p><strong>Stack:</strong> React + Spring Boot</p>
-  🔗 <a href="#">Repositorio</a>
+  🔗 <a href="[#](https://github.com/codigo04/front-restaurante)">Repositorio</a>
   <img src="images/pioriko-2.PNG" alt="Pío Riko">
 </div>
 
