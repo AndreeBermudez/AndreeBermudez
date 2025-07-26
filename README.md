@@ -41,7 +41,7 @@
 > Sistema moderno de licencias con dashboard de administración  
 **Stack:** React + Zustand + TanStack + Axios + TailwindCSS + Spring Boot  
 🔗 [Repositorio](#)  
-![PanelLicencia](ruta/de/tu/imagen1.png)
+![PanelLicencia](images/licencias.PNG)
 
 ---
 
@@ -49,7 +49,7 @@
 > Página web oficial y panel de administración para una entidad pública  
 **Stack:** React + TailwindCSS + Axios + Spring Boot  
 🔗 [Repositorio](#)  
-![Municipalidad](ruta/de/tu/imagen2.png)
+![Municipalidad](images/municipalidad.PNG)
 
 ---
 
@@ -57,7 +57,7 @@
 > Proyecto desarrollado en hackatón universitaria usando API de Gemini  
 **Stack:** React + Gemini API  
 🔗 [Repositorio](#)  
-![Hackaton](ruta/de/tu/imagen3.png)
+![Hackaton](images/hackaton.PNG)
 
 ---
 
@@ -65,7 +65,7 @@
 > Blog estático optimizado con Astro y WordPress Headless CMS  
 **Stack:** Astro + WordPress Headless  
 🔗 [Repositorio](#)  
-![BlogCafe](ruta/de/tu/imagen4.png)
+![BlogCafe](images/blog.PNG)
 
 ---
 
@@ -73,7 +73,7 @@
 > App experimental que simula movimientos oculares con Gemini + React  
 **Stack:** React + Gemini API + Node.js  
 🔗 [Repositorio](#)  
-![OcuLink](ruta/de/tu/imagen5.png)
+![OcuLink](images/oculink.PNG)
 
 ---
 
@@ -81,7 +81,7 @@
 > Sistema de gestión para viajes en bus  
 **Stack:** JavaFX + Spring Boot  
 🔗 [Repositorio](#)  
-![ViaCosta](ruta/de/tu/imagen6.png)
+![ViaCosta](images/viacosta.PNG)
 
 ---
 
@@ -89,7 +89,7 @@
 > Página web para restaurante con administración y pedidos  
 **Stack:** React + Spring Boot  
 🔗 [Repositorio](#)  
-![PioRiko](ruta/de/tu/imagen7.png)
+![PioRiko](images/pioriko.png)
 
 ---
 
