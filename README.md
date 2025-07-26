@@ -89,7 +89,7 @@
 > Página web para restaurante con administración y pedidos  
 **Stack:** React + Spring Boot  
 🔗 [Repositorio](#)  
-![PioRiko](images/pioriko.png)
+![PioRiko](images/pioriko-2.PNG)
 
 ---
 
