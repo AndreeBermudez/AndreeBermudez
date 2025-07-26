@@ -94,8 +94,8 @@
 ---
 
 ## 📫 Contacto
-- 📧 andree.tuemail@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 📧 andreebermudez1408@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andree-berm%C3%BAdez-porras-1b0954328/)
 
 ---
 
